@@ -1,7 +1,0 @@
-package com.yash.exception;
-
-public class ProjectIdExceptionResponse {
-	
-	private String projectIdentifier;
-
-}
